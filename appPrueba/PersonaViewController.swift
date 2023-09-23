@@ -12,6 +12,7 @@ class PersonaViewController: UIViewController {
     @IBOutlet weak var btnPersona1: UIButton!
     @IBOutlet weak var btnPersona2: UIButton!
     @IBOutlet weak var btnPersona3: UIButton!
+    @IBOutlet weak var imgFoto: UIImageView!
     
     
     override func viewDidLoad() {
@@ -30,16 +31,19 @@ class PersonaViewController: UIViewController {
             btnPersona1.isSelected = true;
             btnPersona2.isSelected = false;
             btnPersona3.isSelected = false;
+            imgFoto.image = UIImage(named: "persona1");
         }
         else if sender == btnPersona2 {
             btnPersona1.isSelected = false;
             btnPersona2.isSelected = true;
             btnPersona3.isSelected = false;
+            imgFoto.image = UIImage(named: "persona2");
         }
         else if sender == btnPersona3 {
             btnPersona1.isSelected = false;
             btnPersona2.isSelected = false;
             btnPersona3.isSelected = true;
+            imgFoto.image = UIImage(named: "persona3");
         }
     }
 }

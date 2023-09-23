@@ -56,6 +56,7 @@
                         <outlet property="btnPersona1" destination="mEL-rJ-k4P" id="Aef-wc-AA1"/>
                         <outlet property="btnPersona2" destination="WD7-jw-K50" id="Fg7-49-DIh"/>
                         <outlet property="btnPersona3" destination="fmW-2F-lfg" id="dZx-8p-VEo"/>
+                        <outlet property="imgFoto" destination="Dba-0s-iy0" id="Jk0-P9-xh9"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FYB-3O-uNV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
