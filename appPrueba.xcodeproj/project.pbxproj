@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		414AB96D2ABBE21C007C7DD8 /* DetalleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 414AB96C2ABBE21C007C7DD8 /* DetalleViewController.swift */; };
+		41BC917E2ABE860400060CF3 /* PersonaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BC917D2ABE860400060CF3 /* PersonaViewController.swift */; };
 		B7B1BDCC2AB2A3E1006DFA32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B1BDCB2AB2A3E1006DFA32 /* AppDelegate.swift */; };
 		B7B1BDCE2AB2A3E1006DFA32 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B1BDCD2AB2A3E1006DFA32 /* SceneDelegate.swift */; };
 		B7B1BDD02AB2A3E1006DFA32 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B1BDCF2AB2A3E1006DFA32 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		414AB96C2ABBE21C007C7DD8 /* DetalleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalleViewController.swift; sourceTree = "<group>"; };
+		41BC917D2ABE860400060CF3 /* PersonaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaViewController.swift; sourceTree = "<group>"; };
 		B7B1BDC82AB2A3E1006DFA32 /* appPrueba.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appPrueba.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7B1BDCB2AB2A3E1006DFA32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7B1BDCD2AB2A3E1006DFA32 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				B7B1BDD62AB2A3E2006DFA32 /* LaunchScreen.storyboard */,
 				B7B1BDD92AB2A3E2006DFA32 /* Info.plist */,
 				414AB96C2ABBE21C007C7DD8 /* DetalleViewController.swift */,
+				41BC917D2ABE860400060CF3 /* PersonaViewController.swift */,
 			);
 			path = appPrueba;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				414AB96D2ABBE21C007C7DD8 /* DetalleViewController.swift in Sources */,
 				B7B1BDD02AB2A3E1006DFA32 /* ViewController.swift in Sources */,
 				B7B1BDCC2AB2A3E1006DFA32 /* AppDelegate.swift in Sources */,
+				41BC917E2ABE860400060CF3 /* PersonaViewController.swift in Sources */,
 				B7B1BDCE2AB2A3E1006DFA32 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
